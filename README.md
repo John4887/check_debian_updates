@@ -36,5 +36,8 @@ define service {
 ![alt text](https://github.com/John4887/check_debian_updates/blob/main/check_debian_updates_OK.png)
 ![alt text](https://github.com/John4887/check_debian_updates/blob/main/check_debian_updates_WARNING.png)
 ![alt text](https://github.com/John4887/check_debian_updates/blob/main/check_debian_updates_CRITICAL.png)
+![alt text](https://github.com/John4887/check_debianoffspring_updates/blob/main/check_debianoffspring_updates_OK-phased-updates_Ubuntu.png)
+![alt text](https://github.com/John4887/check_debianoffspring_updates/blob/main/check_debianoffspring_updates_CRITICAL_Ubuntu.png)
+![alt text](https://github.com/John4887/check_debianoffspring_updates/blob/main/check_debianoffspring_updates_CRITICAL_Ubuntu_02.png)
 
 > The plugin will give you OK if there are no updates (or only phased updates in Ubuntu case also), WARNING if there are updates but none of them are security, stable or kernel updates and CRITICAL if at least one update concerns security, stable updates or kernel.
