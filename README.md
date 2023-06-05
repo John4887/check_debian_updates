@@ -2,7 +2,7 @@
 > Nagios NCPA plugin to monitor Debian and Ubuntu updates
 
 
-1. Execute the `install.sh` if you want the plugin installed automatically on the Debian machine you want to monitor updates. It will automatically create the cron task for the `apt update` command
+1. Execute the `install.sh` if you want the plugin installed automatically on the Debian or Ubuntu machine you want to monitor updates. It will automatically create the cron task for the `apt update` command
 ```bash
 sudo bash install.sh
 ```
